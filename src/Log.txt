@@ -1,0 +1,45 @@
+ Move #1 
+ Piece to Destination: Pd6 
+
+ Move #2 
+ Piece to Destination: Pd5 
+
+ Move #1 
+ Piece to Destination: Pb6 
+
+ Move #2 
+ Piece to Destination: Pb5 
+
+ Move #1 
+ Piece to Destination: Ph6 
+
+ Move #1 
+ Piece to Destination: Pb3 
+
+ Move #2 
+ Piece to Destination: Pb4 
+
+ Move #3 
+ Piece to Destination: Pb5 
+
+ Move #1 
+ Piece to Destination: Pb3 
+
+ Move #2 
+ Piece to Destination: Pb4 
+
+ Move #3 
+ Piece to Destination: Pb5 
+
+ Move #1 
+ Piece to Destination: Pb3 
+
+ Move #2 
+ Piece to Destination: Pb4 
+
+ Move #3 
+ Piece to Destination: Pb5 
+
+ Move #4 
+ Piece to Destination: Pb6 
+
